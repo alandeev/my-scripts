@@ -1,2 +1,13 @@
-# my-scripts
-Scripts that will help me with future projects | Javascript &amp; Solutions
+# Scripts | Helpers - JS
+Scripts that will help me with future projects | Javascript & Solutions
+
+### About
+> Writing...
+
+### Structure
+```
+-> helpers
+--> maskKeys(object, keysToHidden=[])
+--> removeKeys(object, keysToRemove=[])
+```
+
